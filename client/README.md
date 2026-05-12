@@ -3,7 +3,7 @@
 
 This is the frontend client for an ecommerce website built with Next.js, React, and Tailwind CSS. It provides a modern shopping experience with features for customers and administrators.
 
-## Features
+## Features:
 
 - Product browsing, filtering, and search
 - Shopping cart and checkout flow
