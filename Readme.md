@@ -6,7 +6,7 @@ This repository contains:
 - `client`: Next.js 15 customer + admin web app
 - `server`: Express 5 API for auth, products, cart, orders, analytics, and admin dashboards
 
-## Table of Contents
+## Table of Content
 
 1. [Overview](#overview)
 2. [Tech Stack](#tech-stack)
